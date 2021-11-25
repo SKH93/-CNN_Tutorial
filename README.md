@@ -3,7 +3,7 @@ Healthhub Tutorial(Classification, Detection, Segmentation)
 Detection, Segmentation skip
 
 ## Explain
-I only use TF1.X./n
+I only use TF1.X.\n
 But I need to use Pytorch.
 If I can use TF2.X, I try it and upload on it.
 
