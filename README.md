@@ -1,15 +1,15 @@
 # CNN_Tutorial
-Healthhub's Tutorial(Classification, Detection, Segmentation)
+Healthhub Tutorial(Classification, Detection, Segmentation)
 Detection, Segmentation skip
 
 ## Explain
-I only use TF1.X.
+I only use TF1.X./n
 But I need to use Pytorch.
 If I can use TF2.X, I try it and upload on it.
 
 ## Classification
 
-### References : RTOSChansu Github()
+### References : RTOSChansu Github(https://github.com/RTOSChansu)
 
 ### Model : VGG16
 #### ![image](https://user-images.githubusercontent.com/79124286/143367552-673a7773-c19f-42c5-949f-fe8b90778b29.png)
