@@ -20,7 +20,7 @@ If I can use TF2.X, I try it and upload on it.
 ### **Result** :
 * Training : 1 Epoch
 * Test
-Loss : 0.051577
+Loss : 0.051577  
 Accuracy : 0.98
 
 ### **Package** : 
