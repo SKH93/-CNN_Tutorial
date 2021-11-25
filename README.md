@@ -14,7 +14,7 @@ If I can use TF2.X, I try it and upload on it.
 ### Model : VGG16
 #### ![image](https://user-images.githubusercontent.com/79124286/143367552-673a7773-c19f-42c5-949f-fe8b90778b29.png)
 #### ![image](https://user-images.githubusercontent.com/79124286/143367612-6d15cbd9-1af6-48cc-be06-d08be667df7c.png)
-#### https://github.com/SKH93/CNN_Tutorial/blob/main/img/VGG16_Architecture3.PNG
+#### ![image](https://user-images.githubusercontent.com/79124286/143367833-3420efc9-debd-45c3-b428-74cc3ff63785.png)
 ### Dataset : MNIST Grayscale Handwriting(1Channel)
 ### Package : 
 #### CPU
