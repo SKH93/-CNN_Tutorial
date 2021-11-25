@@ -3,8 +3,8 @@ Healthhub's Tutorial(Classification, Detection, Segmentation)
 Detection, Segmentation skip
 
 ## Explain
-I only use TF1.X
-But I need to use Pytorch
+I only use TF1.X.
+But I need to use Pytorch.
 If I can use TF2.X, I try it and upload on it.
 
 ## Classification
@@ -12,7 +12,9 @@ If I can use TF2.X, I try it and upload on it.
 ### References : RTOSChansu Github()
 
 ### Model : VGG16
-### 
+#### https://github.com/SKH93/CNN_Tutorial/blob/main/img/VGG16_Architecture.PNG
+#### https://github.com/SKH93/CNN_Tutorial/blob/main/img/VGG16_Architecture2.PNG
+#### https://github.com/SKH93/CNN_Tutorial/blob/main/img/VGG16_Architecture3.PNG
 ### Dataset : MNIST Grayscale Handwriting(1Channel)
 ### Package : 
 #### CPU
