@@ -12,7 +12,7 @@ If I can use TF2.X, I try it and upload on it.
 ### References : RTOSChansu Github()
 
 ### Model : VGG16
-#### https://github.com/SKH93/CNN_Tutorial/blob/main/img/VGG16_Architecture.PNG
+#### ![image](https://user-images.githubusercontent.com/79124286/143367552-673a7773-c19f-42c5-949f-fe8b90778b29.png)
 #### https://github.com/SKH93/CNN_Tutorial/blob/main/img/VGG16_Architecture2.PNG
 #### https://github.com/SKH93/CNN_Tutorial/blob/main/img/VGG16_Architecture3.PNG
 ### Dataset : MNIST Grayscale Handwriting(1Channel)
