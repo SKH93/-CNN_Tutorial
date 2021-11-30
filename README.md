@@ -1,6 +1,6 @@
 # **CNN_Tutorial**
-Healthhub Tutorial(Classification, Detection, Segmentation)
-Detection, Segmentation skip
+Healthhub Tutorial(Classification, Detection, Segmentation)  
+Detection, Segmentation Skip
 
 ## **Explain**
 I only use TF1.X.  
